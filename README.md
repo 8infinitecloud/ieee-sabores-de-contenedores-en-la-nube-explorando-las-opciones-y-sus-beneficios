@@ -1,25 +1,27 @@
-# ieee-sabores-de-contenedores-en-la-nube-explorando-las-opciones-y-sus-beneficios
-WORKSHOP: Este repositorio cuenta con el contenido de la charla "Sabores de Contenedores en la Nube: Explorando las Opciones y sus Beneficios".
+# 🎉 IEEE - Sabores de Contenedores en la Nube: Explorando las Opciones y sus Beneficios 🌐
 
-## Contenidos Principales
+## 🚀 WORKSHOP
+Este repositorio cuenta con el contenido de la charla **"Sabores de Contenedores en la Nube: Explorando las Opciones y sus Beneficios"**.
 
-### Introducción a los Contenedores
+## 📋 Contenidos Principales
 
-- Definición y conceptos básicos de contenedores.
-- Historia y evolución de la tecnología de contenedores.
+### 🧩 Introducción a los Contenedores
 
-### Plataformas de Contenedores en la Nube
+- 📦 **Definición y conceptos básicos de contenedores**.
+- 🕰️ **Historia y evolución de la tecnología de contenedores**.
 
-- Descripción de las principales plataformas de contenedores como Docker, Kubernetes, y OpenShift.
-- Comparación de características y casos de uso.
+### ☁️ Plataformas de Contenedores en la Nube
 
-### Implementación de Contenedores en la Nube
+- 🛠️ **Descripción de las principales plataformas de contenedores** como Docker, Kubernetes, y OpenShift.
+- 🔍 **Comparación de características y casos de uso**.
 
-- Guía paso a paso para la implementación de contenedores en distintos proveedores de nube como AWS, Azure, y Google Cloud.
-- Herramientas y servicios ofrecidos por cada proveedor para gestionar contenedores.
+### 📑 Implementación de Contenedores en la Nube
 
-## Referencias:
+- 📝 **Guía paso a paso para la implementación de contenedores** en distintos proveedores de nube como AWS, Azure, y Google Cloud.
+- 🧰 **Herramientas y servicios ofrecidos por cada proveedor para gestionar contenedores**.
 
-AWS EKS BLUEPRINTS: https://aws-ia.github.io/terraform-aws-eks-blueprints/
-AWS EKS ANYWHERE: https://anywhere.eks.amazonaws.com/docs/getting-started/optional/
-AZURE ARCHITECTURE REFERENCE: https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-start-here
+## 📚 Referencias:
+
+- 📘 **AWS EKS BLUEPRINTS**: [https://aws-ia.github.io/terraform-aws-eks-blueprints/](https://aws-ia.github.io/terraform-aws-eks-blueprints/)
+- 📙 **AWS EKS ANYWHERE**: [https://anywhere.eks.amazonaws.com/docs/getting-started/optional/](https://anywhere.eks.amazonaws.com/docs/getting-started/optional/)
+- 📗 **AZURE ARCHITECTURE REFERENCE**: [https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-start-here](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-start-here)
