@@ -26,3 +26,4 @@ Este repositorio cuenta con el contenido de la charla **"Sabores de Contenedores
 - 📙 **AWS EKS ANYWHERE**: [https://anywhere.eks.amazonaws.com/docs/getting-started/optional/](https://anywhere.eks.amazonaws.com/docs/getting-started/optional/)
 - 📘 **AWS EKS BEST PRACTICES**: [https://aws.github.io/aws-eks-best-practices/security/docs/](https://aws.github.io/aws-eks-best-practices/security/docs/)
 - 📗 **AZURE ARCHITECTURE REFERENCE**: [https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-start-here](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-start-here)
+- 📙 **AZURE LABS CONTRIBUTOR**: [https://olohmann.github.io/azure-hands-on-labs/labs/05_container_orchestration_and_aks/containers_and_aks.html](https://olohmann.github.io/azure-hands-on-labs/labs/05_container_orchestration_and_aks/containers_and_aks.html)
