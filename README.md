@@ -17,7 +17,7 @@ Este repositorio cuenta con el contenido de la charla **"Sabores de Contenedores
 
 ### 📑 Implementación de Contenedores en la Nube
 
-- 📝 **Guía paso a paso para la implementación de contenedores** en distintos proveedores de nube como AWS, Azure, y Google Cloud.
+- 📝 **Guía para la implementación de contenedores** en distintos proveedores de nube como AWS, Azure, y Google Cloud.
 - 🧰 **Herramientas y servicios ofrecidos por cada proveedor para gestionar contenedores**.
 
 ## 📚 Referencias:
